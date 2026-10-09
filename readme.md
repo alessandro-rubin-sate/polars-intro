@@ -1,0 +1,2 @@
+Open the notebook in colab:
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alessandro-rubin-sate/polars-intro/blob/master/polars_intro.ipynb)
